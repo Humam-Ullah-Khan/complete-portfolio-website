@@ -91,3 +91,61 @@ transform: scale(1.01);
 .project-image-forth:hover{
     transform: scale(1.01);
 }
+
+/* About me  */
+
+.about-section {
+    padding: 60px 0;
+  }
+  .about-section h2 {
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  
+  .about-section p {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  .about-section .btn-outline-dark {
+    border:2px solid #e63946;
+    color: #e63946;
+  }
+  .about-section .btn-outline-dark:hover {
+    background-color: #e63946;
+    color: #fff;
+    border:2px solid #e63946;
+  }
+  .left-border {
+    border-left: 5px solid #e63946;
+    padding-left: 15px;
+  }
+
+
+  /* Contact section */
+
+  .contact-section {
+    padding: 60px 0;
+  }
+  .contact-section h2 {
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  .contact-section h2 span {
+    color: #e63946; /* Red accent for "INFO" */
+  }
+  .card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  .card img {
+    width: 50px;
+    margin-bottom: 15px;
+  }
+  .card h4 {
+    margin-bottom: 10px;
+  }
+  .card p {
+    margin: 0;
+  }
