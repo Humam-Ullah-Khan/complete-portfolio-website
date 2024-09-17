@@ -81,7 +81,7 @@ transform: scale(1.01);
 }
 
 .project-image-forth{
-    background-image: url(./images/Project\ 4.jpg);
+    background-image: url(./images/project\ 4.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
