@@ -1,0 +1,93 @@
+.nav-link{
+    color: #fff !important;
+}
+
+.nav-link:hover{
+    color: #E91E63 !important;
+}
+
+.hero-section {
+    background: url('images/computer.jpeg') no-repeat center center/cover;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.hero-text h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.hero-btn {
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+    border: 2px solid #E91E63 !important;
+}
+
+.hero-btn:hover{
+    background-color: #E91E63 !important;
+    color: #fff !important;
+}
+
+span{
+    color: #E91E63;
+}
+
+/* Cards */
+
+.Project-card {
+    height: 250px;
+    text-align: left;
+    padding: 25px;
+    font-family: verdana;
+}
+
+.project-image-first{
+    background-image: url(./images/project\ 1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s ease transform;
+}
+
+.project-image-first:hover{
+    transform: scale(1.01);
+}
+
+.project-image-second{
+    background-image: url(./images/Project\ 2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s ease transform;
+}
+
+.project-image-second:hover{
+transform: scale(1.01);
+}
+
+.project-image-third{
+    background-image: url(./images/project\ 3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s ease transform;
+}
+
+.project-image-third:hover{
+    transform: scale(1.01);
+}
+
+.project-image-forth{
+    background-image: url(./images/Project\ 4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s ease transform;
+}
+
+.project-image-forth:hover{
+    transform: scale(1.01);
+}
