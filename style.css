@@ -6,6 +6,10 @@
   color: #E91E63 !important;
 }
 
+.web-name{
+  font-weight: 500;
+}
+
 .hero-section {
   background: url('images/computer.jpeg') no-repeat center center/cover;
   min-height: 100vh;
